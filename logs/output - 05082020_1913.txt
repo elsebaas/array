@@ -1,0 +1,47 @@
+
+###############################################
+Robot by array consulting group 2021
+Extraccion de datos y asignacion de documentos entrantes en oficina de partes SSFFAA
+###############################################
+
+Ingresando a https://demodoc.digital.gob.cl
+
+Ingresando rut y clave unica
+
+Ingresando a: Oficina de partes / Documentos entrantes
+
+Buscando si existen documentos en la tabla.
+
+Existen 62 documentos para extraccion de datos y asignacion.
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\05082020_1913_1" creada.
+
+Descargando documento PDF
+
+Memo prueba 3 DAC.pdf
+Extrayendo datos del documento "Memo prueba 3 DAC" para generar archivo .txt
+
+Extraccion de datos para el documento "Memo prueba 3 DAC" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\05082020_1913_2" creada.
+
+Descargando documento PDF
+
+Prueba oficio 3 LECA.pdf
+Extrayendo datos del documento "Prueba oficio 3 LECA" para generar archivo .txt
+
+Extraccion de datos para el documento "Prueba oficio 3 LECA" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\05082020_1913_3" creada.
+
+Descargando documento PDF
+
+Resolución 692.pdf

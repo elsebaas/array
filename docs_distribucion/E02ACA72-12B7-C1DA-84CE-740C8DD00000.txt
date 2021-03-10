@@ -1,0 +1,7 @@
+TD:Carta
+MT:
+DS:
+RE:SI
+RO:NO
+MO:Ministerio de Defensa Nacional
+IN:Fuerza Aérea de Chile

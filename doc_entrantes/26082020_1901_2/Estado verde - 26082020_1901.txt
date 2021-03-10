@@ -1,0 +1,9 @@
+IO:Subsecretaría de Agricultura
+AS:Practicas amigables con el medio ambiente
+UO:Daniela Alejandra González Ramírez
+FO:C-757
+TD:Circular
+ND:Circular + C-757
+FF:05-08-2020 16:50:30
+GS:Público
+MA:Estado verde

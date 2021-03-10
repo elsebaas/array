@@ -1,0 +1,8 @@
+
+###############################################
+Robot by array consulting group 2021
+Extraccion de datos y asignacion de documentos entrantes en oficina de partes SSFFAA
+###############################################
+
+Ingresando a https://demodoc.digital.gob.cl
+

@@ -1,0 +1,34 @@
+Ingresando a https://demodoc.digital.gob.cl
+
+Ingresando rut y clave unica
+
+Ingresando a: Oficina de partes / Documentos entrantes
+
+Buscando si existen documentos en la tabla.
+
+Existen 3 documentos para extraccion de datos y asignacion.
+
+Extrayendo datos del documento "Prueba 5" para generar archivo .txt
+
+Descargando documento PDF
+
+Extraccion de datos para el documento "Prueba 5" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Extrayendo datos del documento "Prueba" para generar archivo .txt
+
+Descargando documento PDF
+
+Extraccion de datos para el documento "Prueba" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Extrayendo datos del documento "Taller de DocDigital" para generar archivo .txt
+
+Descargando documento PDF
+
+Extraccion de datos para el documento "Taller de DocDigital" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+
+
+Proceso de extraccion de datos finalizado con exito.

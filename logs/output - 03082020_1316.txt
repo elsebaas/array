@@ -1,0 +1,21 @@
+C:\\Users\\\Administrador.WIN-2SOT9JKIOLG\\Downloads\\
+
+###############################################
+Robot by array consulting group 2021
+Extraccion de datos y asignacion de documentos entrantes en oficina de partes SSFFAA
+###############################################
+
+Ingresando a https://demodoc.digital.gob.cl
+
+Ingresando rut y clave unica
+
+Ingresando a: Oficina de partes / Documentos entrantes
+
+Buscando si existen documentos en la tabla.
+
+Existen 3 documentos para extraccion de datos y asignacion.
+
+Extrayendo datos del documento "Prueba 5" para generar archivo .txt
+
+Descargando documento PDF
+

@@ -1,0 +1,15 @@
+
+###############################################
+Robot by array consulting group 2021
+Extraccion de datos y asignacion de documentos entrantes en oficina de partes SSFFAA
+###############################################
+
+Ingresando a https://demodoc.digital.gob.cl
+
+Ingresando rut y clave unica
+
+Ingresando a: Nuevo documento a distribuir
+
+Ingresando a: Nuevo documento a distribuir
+
+C:\Python27\array\docs_distribucion\92BEE3F5-8567-CC6A-877A-740CE6800000.txt

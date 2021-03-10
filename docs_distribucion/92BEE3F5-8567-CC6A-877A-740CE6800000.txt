@@ -1,0 +1,7 @@
+TD:Oficio
+MT:Materia de prueba 2
+DS:Asunto de prueba 2
+RE:SI
+RO:NO
+MO:Ministerio de Defensa Nacional
+IN:Armada de Chile

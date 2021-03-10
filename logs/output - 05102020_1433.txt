@@ -1,0 +1,16 @@
+
+###############################################
+Robot by array consulting group 2021
+Extraccion de datos y asignacion de documentos entrantes en oficina de partes SSFFAA
+###############################################
+
+Ingresando a https://demodoc.digital.gob.cl
+
+Creando carpeta de screnshots
+
+Carpeta "C:\Python27\array\registro_eventos\docs_entrantes\screenshots\05102020_1434" de screenshots creada.
+
+Ingresando rut y clave unica
+
+Ingresando a: Oficina de partes / Documentos entrantes
+

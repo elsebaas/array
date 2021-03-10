@@ -1,0 +1,99 @@
+
+###############################################
+Robot by array consulting group 2021
+Extraccion de datos y asignacion de documentos entrantes en oficina de partes SSFFAA
+###############################################
+
+Ingresando a https://demodoc.digital.gob.cl
+
+Ingresando rut y clave unica
+
+Ingresando a: Oficina de partes / Documentos entrantes
+
+Buscando si existen documentos en la tabla.
+
+Existen 62 documentos para extraccion de datos y asignacion.
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\06082020_1846_1" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Memo prueba 3 DAC" para generar archivo .txt
+
+Extraccion de datos para el documento "Memo prueba 3 DAC" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\06082020_1846_2" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Prueba oficio 3 LECA" para generar archivo .txt
+
+Extraccion de datos para el documento "Prueba oficio 3 LECA" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\06082020_1846_3" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Resolución 692" para generar archivo .txt
+
+Extraccion de datos para el documento "Resolución 692" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\06082020_1846_4" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "RESOLUCIÓN 4595 EXENTA" para generar archivo .txt
+
+Extraccion de datos para el documento "RESOLUCIÓN 4595 EXENTA" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\06082020_1846_5" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Traslado" para generar archivo .txt
+
+Extraccion de datos para el documento "Traslado" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\06082020_1846_6" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Convenio Prueba 3" para generar archivo .txt
+
+Extraccion de datos para el documento "Convenio Prueba 3" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\06082020_1846_7" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Expedientes" para generar archivo .txt
+
+Extraccion de datos para el documento "Expedientes" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\\Python27\\array\\doc_entrantes\\06082020_1846_8" creada.
+
+Descargando documento PDF
+

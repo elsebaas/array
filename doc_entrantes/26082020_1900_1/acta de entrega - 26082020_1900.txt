@@ -1,0 +1,9 @@
+IO:Subsecretaría de Agricultura
+AS:asignación de equipo
+UO:Daniela Alejandra González Ramírez
+FO:C-03
+TD:Carta
+ND:Carta + C-03
+FF:05-08-2020 16:50:30
+GS:Público
+MA:acta de entrega

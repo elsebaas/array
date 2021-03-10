@@ -1,0 +1,242 @@
+
+###############################################
+Robot by array consulting group 2021
+Extraccion de datos y asignacion de documentos entrantes en oficina de partes SSFFAA
+###############################################
+
+Ingresando a https://demodoc.digital.gob.cl
+
+Ingresando rut y clave unica
+
+Ingresando a: Oficina de partes / Documentos entrantes
+
+Buscando si existen documentos en la tabla.
+
+Existen 62 documentos para extraccion de datos y asignacion.
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_1" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Memo prueba 3 DAC" para generar archivo .txt
+
+Extraccion de datos para el documento "Memo prueba 3 DAC" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_2" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Prueba oficio 3 LECA" para generar archivo .txt
+
+Extraccion de datos para el documento "Prueba oficio 3 LECA" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_3" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Resolución 692" para generar archivo .txt
+
+Extraccion de datos para el documento "Resolución 692" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_4" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "RESOLUCIÓN 4595 EXENTA" para generar archivo .txt
+
+Extraccion de datos para el documento "RESOLUCIÓN 4595 EXENTA" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_5" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Traslado" para generar archivo .txt
+
+Extraccion de datos para el documento "Traslado" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_6" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Convenio Prueba 3" para generar archivo .txt
+
+Extraccion de datos para el documento "Convenio Prueba 3" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_7" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Expedientes" para generar archivo .txt
+
+Extraccion de datos para el documento "Expedientes" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_8" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Convenio prueba 4" para generar archivo .txt
+
+Extraccion de datos para el documento "Convenio prueba 4" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_9" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "CIRCULAR ECONOMIA" para generar archivo .txt
+
+Extraccion de datos para el documento "CIRCULAR ECONOMIA" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_10" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Prueba oficio 4 LECA" para generar archivo .txt
+
+Extraccion de datos para el documento "Prueba oficio 4 LECA" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_11" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "CIRCULAR E 3 CFGS" para generar archivo .txt
+
+Extraccion de datos para el documento "CIRCULAR E 3 CFGS" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_12" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Memo prueba 4 DAC" para generar archivo .txt
+
+Extraccion de datos para el documento "Memo prueba 4 DAC" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_13" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Memo de prueba DAC 2" para generar archivo .txt
+
+Extraccion de datos para el documento "Memo de prueba DAC 2" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_14" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Carta de prueba DAC 2" para generar archivo .txt
+
+Extraccion de datos para el documento "Carta de prueba DAC 2" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_15" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Prueba 4" para generar archivo .txt
+
+Extraccion de datos para el documento "Prueba 4" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_16" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Oficio de prueba 2 LECA" para generar archivo .txt
+
+Extraccion de datos para el documento "Oficio de prueba 2 LECA" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_17" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Oficio de prueba DAC 2" para generar archivo .txt
+
+Extraccion de datos para el documento "Oficio de prueba DAC 2" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_18" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "OFICIO PRUEBA2 CFGS" para generar archivo .txt
+
+Extraccion de datos para el documento "OFICIO PRUEBA2 CFGS" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_19" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Informe" para generar archivo .txt
+
+Extraccion de datos para el documento "Informe" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_20" creada.
+
+Descargando documento PDF
+
+Extrayendo datos del documento "Circular de prueba DAC 1" para generar archivo .txt
+
+Extraccion de datos para el documento "Circular de prueba DAC 1" realizado con exito. Pasando al siguiente documento...
+-----------------------------------------
+
+Creando carpeta
+
+Carpeta "C:\Python27\array\doc_entrantes\06082020_1856_21" creada.
+
+Descargando documento PDF
+
